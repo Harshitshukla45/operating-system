@@ -45,7 +45,7 @@ int main()
 
     for(int i=0;i<5;i++)
     {
-       // printf("%c ",pro.pid);
+        printf("%c ",pro.pid);
         printf("%d %d %d %d %d %d",p[i].at,p[i].bt,p[i].ct,p[i].tat,p[i].wt,p[i].rt);
         printf("\n");
     }

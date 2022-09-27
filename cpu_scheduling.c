@@ -21,7 +21,6 @@ int main()
     pro p[5];
     for(int i=0;i<n;i++)
     {
-        //scanf("%d",&p[i].pid);
         scanf("%d",&p[i].at);
         scanf("%d",&p[i].bt);
 

@@ -18,7 +18,7 @@ int main()
 {
     printf("enter the value of all n, AT's & BT's\n");
     scanf("%d",&n);
-    pro p[5];
+    pro p[n];
     for(int i=0;i<n;i++)
     {
         scanf("%d",&p[i].at);
